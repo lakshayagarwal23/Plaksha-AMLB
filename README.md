@@ -10,4 +10,9 @@ This repository contains homework assignments and datasets for the course.
 - **Released:** January 24, 2026
 - **Download:** See [Releases](https://github.com/nikhilgeorge2/Plaksha-AMLB/releases)
 
-Contains assignment PDF and all required datasets.
+### Homework 2: Selective Labels, Calibration, and Simulation
+- **Released:** March 2, 2026
+- **Folder:** [HW2/](HW2/)
+- `HW2_Notebook.ipynb` — assignment notebook (complete all work here)
+- `cardiac_patients.csv` — hospital dataset (2000 patients, features + referral decisions)
+- `cardiac_truth.csv` — released at Step 5; load when instructed
